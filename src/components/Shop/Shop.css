@@ -1,0 +1,16 @@
+.shop-container{
+
+    display : flex;
+}
+
+.product-container{
+    width : 70%;
+    margin-left : 12%;
+    margin-right : 6px;
+    border-right: 1px solid lightgray;
+}
+
+.cart-conatiner {
+    width: 25%;
+    margin-left: 25px;
+}

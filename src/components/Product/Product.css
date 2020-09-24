@@ -1,0 +1,30 @@
+.product{
+    display : flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom : 5px;
+    margin-right  : 10px;
+    padding-bottom: 10px;
+ 
+}
+
+.product-name{
+    text-align: left;
+    color: blue;
+    font-weight: 400;
+    font-size : 16px;
+
+}
+
+.main-button{
+    background-color : #F0C14B;
+    width : 170px;
+    height: 30px;
+    border : 1px solid black;
+    border-radius: 6px;
+}
+
+element.style {
+}
+.product-image {
+    margin-right: 30px;
+}
